@@ -1,2 +1,2 @@
 # Social Media App Project
-## This is my Twitter-style Social Media Application
+This is my Twitter-style Social Media Application
