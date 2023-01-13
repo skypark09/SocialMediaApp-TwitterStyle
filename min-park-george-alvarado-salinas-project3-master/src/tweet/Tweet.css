@@ -1,0 +1,17 @@
+.page-body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.tweet-components {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50vw;
+  flex-direction: column;
+}
+.pretty-link {
+  text-decoration: none;
+  color: aqua;
+}

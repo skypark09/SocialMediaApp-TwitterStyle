@@ -1,0 +1,35 @@
+.page-styling {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.box-styling {
+  width: 50vw;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+.name-styling {
+  margin-top: 20px;
+  font-size: 4.5rem;
+}
+.username-styling {
+  font-size: 3rem;
+  padding: 5px;
+}
+.description-styling {
+  font-size: 2rem;
+  padding: 5px;
+}
+.tweet-components {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50vw;
+  flex-direction: column;
+}
+.pretty-link {
+  text-decoration: none;
+  color: aqua;
+}

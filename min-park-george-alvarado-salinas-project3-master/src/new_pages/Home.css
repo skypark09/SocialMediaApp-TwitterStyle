@@ -1,0 +1,26 @@
+.page-body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.title-tag {
+  font-size: 3rem;
+  margin-top: 1%;
+}
+.input-field {
+  font-size: 2rem;
+}
+.spacing-style {
+  padding-top: 1%;
+}
+.pretty-link {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: aqua;
+}
+.tweet-components {
+  background-color: teal;
+  margin: 5px;
+  padding: 10px;
+}
